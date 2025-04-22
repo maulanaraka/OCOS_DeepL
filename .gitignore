@@ -1,0 +1,13 @@
+# Ignore everything
+*
+
+# But not these files
+!.gitignore
+!car-object-detection-yolo-train.ipynb
+!make dataset.ipynb
+!scrape semi auto v4.ipynb
+!test model realtime.ipynb
+!model training.ipynb
+!yolo11n.pt
+!yolo11s.pt
+!multi_label_carparts_resnet18.pt
