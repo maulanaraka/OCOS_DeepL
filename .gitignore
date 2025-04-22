@@ -14,3 +14,4 @@
 !multi_label_carparts_resnet18.pt
 !test_model_2.ipynb
 !car_multi_model.pt
+!milticlass_classification_training.ipynb
